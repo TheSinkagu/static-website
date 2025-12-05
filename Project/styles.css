@@ -1,0 +1,11 @@
+main, header, section {
+    max-width: 800px;   /* keeps text lines readable */
+    margin: 0 auto;     /* centers the content */
+    padding: 20px;      /* adds spacing so text isn’t touching edges */
+    line-height: 1.6;   /* improves readability */
+}
+body {
+    font-family: Arial, sans-serif;  /* sets a clean, modern font */
+    background-color: #f4f4f4;       /* light background color for contrast */
+    color: #333;                     /* dark text color for readability */
+}
